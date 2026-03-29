@@ -1,1 +1,0 @@
-savedcmd_/home/sialpi/kernelMod/sialpiModule/Module.symvers :=  scripts/mod/modpost -M        -o /home/sialpi/kernelMod/sialpiModule/Module.symvers -n -T /home/sialpi/kernelMod/sialpiModule/modules.order -i Module.symvers -e 
