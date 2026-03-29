@@ -1,2 +1,7 @@
 linux-6.9/*
-initramfs.cpio.gz 
+initramfs.cpio.gz
+*.o
+*.ko
+*.mod
+*.order
+*.symvers 
