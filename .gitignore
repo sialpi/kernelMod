@@ -1,4 +1,4 @@
-linux-6.9/*
+linux-6.9/
 initramfs.cpio.gz
 *.o
 *.ko
