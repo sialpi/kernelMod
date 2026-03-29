@@ -1,0 +1,1 @@
+savedcmd_/home/sialpi/kernelMod/sialpiModule/sialpiModule.mod := printf '%s\n'   sialpiModule.o | awk '!x[$$0]++ { print("/home/sialpi/kernelMod/sialpiModule/"$$0) }' > /home/sialpi/kernelMod/sialpiModule/sialpiModule.mod
